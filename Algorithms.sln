@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingAlgorithms", "Sortin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{EE829451-CD54-4BB5-8309-A7A979CB19B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labyrinth", "Labyrinth\Labyrinth.csproj", "{56A71EE9-7DBC-4152-B132-2F9E413BFFF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth", "Labyrinth\Labyrinth.csproj", "{56A71EE9-7DBC-4152-B132-2F9E413BFFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueensPuzzle", "QueensPuzzle\QueensPuzzle.csproj", "{DB363CA9-9E5E-41C1-A73B-526C43FE557B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{56A71EE9-7DBC-4152-B132-2F9E413BFFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A71EE9-7DBC-4152-B132-2F9E413BFFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A71EE9-7DBC-4152-B132-2F9E413BFFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB363CA9-9E5E-41C1-A73B-526C43FE557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB363CA9-9E5E-41C1-A73B-526C43FE557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB363CA9-9E5E-41C1-A73B-526C43FE557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB363CA9-9E5E-41C1-A73B-526C43FE557B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
