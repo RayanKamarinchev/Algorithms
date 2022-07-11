@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth", "Labyrinth\Labyrinth.csproj", "{56A71EE9-7DBC-4152-B132-2F9E413BFFF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueensPuzzle", "QueensPuzzle\QueensPuzzle.csproj", "{DB363CA9-9E5E-41C1-A73B-526C43FE557B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueensPuzzle", "QueensPuzzle\QueensPuzzle.csproj", "{DB363CA9-9E5E-41C1-A73B-526C43FE557B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy", "Greedy\Greedy.csproj", "{0A471A67-8F47-4302-A420-632EBE894878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPath", "ShortestPath\ShortestPath.csproj", "{24FB299B-7811-46B4-8108-D39431B97263}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{DB363CA9-9E5E-41C1-A73B-526C43FE557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB363CA9-9E5E-41C1-A73B-526C43FE557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB363CA9-9E5E-41C1-A73B-526C43FE557B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A471A67-8F47-4302-A420-632EBE894878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A471A67-8F47-4302-A420-632EBE894878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A471A67-8F47-4302-A420-632EBE894878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A471A67-8F47-4302-A420-632EBE894878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FB299B-7811-46B4-8108-D39431B97263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FB299B-7811-46B4-8108-D39431B97263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FB299B-7811-46B4-8108-D39431B97263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FB299B-7811-46B4-8108-D39431B97263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
